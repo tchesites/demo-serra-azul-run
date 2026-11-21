@@ -1,0 +1,17 @@
+# node
+node_modules/
+dist/
+
+# sistema
+.DS_Store
+Thumbs.db
+
+# QA e temporários
+check-*.png
+*.zip
+.ftp-deploy-sync-state.json
+
+# originais de imagem não usados no site
+assets/originais/
+
+docs/proposta-p*.png
